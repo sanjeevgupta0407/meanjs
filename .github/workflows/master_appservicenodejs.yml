@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'appservicenodejs'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_45e1c54b667c460092d6ecb064bf6355 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ed5b6afa23ef46c3a62586a611ec7f26 }}
         package: .
